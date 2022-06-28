@@ -3,9 +3,9 @@ Projetos para aprender a sintaxe básica do PHP e conhecer os principais recurso
 
 > :construction: Projeto em contrução :construction:
     
-        <li>Variáveis e tipos</li>
-        <li>Repetindo açoes</li>
-        <li>Tomada de decisões</li>
-        <li>Arrays associativos</li>
-        <li>Criando funções</li>
+- `Variáveis e tipos`
+- `Repetindo açoes`
+- `Tomada de decisões`
+- `Arrays associativos`
+- `Criando funções`
     
